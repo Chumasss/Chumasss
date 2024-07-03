@@ -1,3 +1,3 @@
 # Chumasss.github.io
 
-oi pinto
+Olá, esse é o meu repositório!
